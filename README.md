@@ -6,7 +6,7 @@ MiniFigma is a lightweight design editor that allows users to create, edit, arra
 
 🚀 Live Demo
 
-🔗 Live Demo: "[https://YOUR-USERNAME.github.io/minifigma-clone/](https://github.com/AtulRathor75057/vhbuyio-web-development--internship-Atul-Rathor-Task2)"
+🔗 Live Demo: "https://github.com/AtulRathor75057/vhbuyio-web-development--internship-Atul-Rathor-Task2"
 
 «Replace the URL above with your actual GitHub Pages link.»
 
